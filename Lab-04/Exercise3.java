@@ -82,7 +82,7 @@ class AddressList {
 		return address;
 	}
 }
-public class Excercise3 {
+public class Exercise3 {
 	public static void main(String[] args) {
 		// Write methods to test the above classes
 	}

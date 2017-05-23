@@ -94,7 +94,7 @@ class StudentList {
 		return std;
 	}
 }
-public class Excercise2 {
+public class Exercise2 {
 	public static Student readStudent() throws IOException {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter First name: ");
